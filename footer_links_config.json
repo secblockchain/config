@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Quick Links",
+        "links": [
+            {
+                "text": "Mainnet Explorer",
+                "url": "https://secexplorer.io/"
+            },
+            {
+                "text": "Testnet Explorer",
+                "url": "https://testnet.secexplorer.io/"
+            }
+        ]
+    }
+]
