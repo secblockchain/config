@@ -1,0 +1,15 @@
+[{
+		"title": "Smart Energy Coin",
+		"url": "https://secexplorer.io/",
+		"group": "Mainnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/secblockchain/assets/main/SEC-png-logo-transparent.png"
+	},
+	{
+		"title": "Smart Energy Coin",
+		"url": "https://testnet.secexplorer.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/secblockchain/assets/main/SEC-png-logo-transparent.png",
+		"invertIconInDarkMode": true
+	}
+]
