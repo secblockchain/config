@@ -1,15 +1,15 @@
 [{
-		"title": "Smart Energy Coin",
+		"title": "Smart Energy Chain",
 		"url": "https://secexplorer.io/",
 		"group": "Mainnets",
 		"isActive": true,
-		"icon": "https://raw.githubusercontent.com/secblockchain/assets/main/SEC-png-logo-transparent.png"
+		"icon": "https://raw.githubusercontent.com/secblockchain/assets/main/sec-logo.png"
 	},
 	{
-		"title": "Smart Energy Coin",
+		"title": "Smart Energy Chain",
 		"url": "https://testnet.secexplorer.io/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/secblockchain/assets/main/SEC-png-logo-transparent.png",
+		"icon": "https://raw.githubusercontent.com/secblockchain/assets/main/sec-logo.png",
 		"invertIconInDarkMode": true
 	}
 ]
